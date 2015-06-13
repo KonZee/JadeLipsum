@@ -37,5 +37,5 @@ Then create content what you need:
 ```
 
 ## Codepen demo
-<p data-height="393" data-theme-id="0" data-slug-hash="vOZqba" data-default-tab="result" data-user="KZee" class='codepen'>See the Pen <a href='http://codepen.io/KZee/pen/vOZqba/'>Jade Lorem Ipsum mixin</a> by Konstantin Zakablukovsky (<a href='http://codepen.io/KZee'>@KZee</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+<iframe height='592' scrolling='no' src='//codepen.io/KZee/embed/vOZqba/?height=592&theme-id=15952&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/KZee/pen/vOZqba/'>Jade Lorem Ipsum mixin</a> by Konstantin Zakablukovsky (<a href='http://codepen.io/KZee'>@KZee</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
