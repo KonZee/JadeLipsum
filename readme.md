@@ -36,4 +36,6 @@ Then create content what you need:
 		Anim laborum, nulla aliqua culpa, deserunt, eiusmod? Labore pariatur nulla, ipsum elit reprehenderit sunt lorem minim laborum culpa, ut enim. 
 ```
 
-
+## Codepen demo
+<p data-height="393" data-theme-id="0" data-slug-hash="vOZqba" data-default-tab="result" data-user="KZee" class='codepen'>See the Pen <a href='http://codepen.io/KZee/pen/vOZqba/'>Jade Lorem Ipsum mixin</a> by Konstantin Zakablukovsky (<a href='http://codepen.io/KZee'>@KZee</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
