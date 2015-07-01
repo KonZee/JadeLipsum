@@ -52,7 +52,7 @@ mixin lipsum(items, type)
 		//- Generate sentence itself
 		-for (var i=0; i< words; i++){
 			-sentence += wordArray[Math.floor(Math.random() * wordArray.length)];
-			// Add some punctuation
+			//- Add some punctuation
 			-if (i == (words -1)){
 				-if (Math.random() < questionChance){
 					-sentence += "? ";
@@ -84,7 +84,7 @@ mixin lipsum(items, type)
 
 	else if type == "characters"
 		-var characters = ""
-		// Add words to string
+		//- Add words to string
 		while characters.length < items
 			-characters += wordArray[Math.floor(Math.random() * wordArray.length)]
 
